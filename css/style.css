@@ -1,0 +1,10 @@
+#main {
+  width: 100%;
+}
+
+#image {
+  height: auto;
+  display: block;
+  width: 80%;
+  margin: auto;
+}
